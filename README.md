@@ -1,7 +1,7 @@
 
 ## ⚡ arduino game
 
-![]()
+![](https://imagizer.imageshack.com/img924/667/50ulqN.jpg)
 
 ---
 In this task, i made a simpe using Arduino. The TFT screen and joystick are connected to the Arduino board using the following pin configuration:
@@ -20,6 +20,8 @@ In this task, i made a simpe using Arduino. The TFT screen and joystick are conn
 - VRx pin is the analog output pin for X-axis (left and right).
 - VRy pin is the analog output pin for Y-axis (up and down).
 - SW pin is connected to the pull-up button. Once the button is pressed, SW pin outputs 0
+
+![](https://imagizer.imageshack.com/img924/783/VOiIcV.jpg)
 
 ## Library Installation
 
