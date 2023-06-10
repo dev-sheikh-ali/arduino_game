@@ -65,5 +65,28 @@ To use the code, follow these steps:
    ```libaries
    #include <Adafruit_GFX.h>
    #include <Adafruit_ST7735.h>
+   ```
+4. the pin connetctions
+    
+    ```
+    const int SW = 2; // SW
+    const int X = 0;  // VRx
+    const int Y = 1;  // VRy
 
+    #define TFT_CS   10
+    #define TFT_RST  9
+    #define TFT_DC   8
+    
+    ```
+6. then the rest of the code `arduin_game.ino`
+    ```
+    void setup(){
+    //code
+    }
+    
+    void loop{
+    // more code
+    }
+    
+    ```
 
