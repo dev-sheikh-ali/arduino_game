@@ -1,7 +1,7 @@
 
 ## ⚡ arduino game
 
-![](https://imagizer.imageshack.com/img922/6973/aFumeW.png)
+![]()
 
 ---
 In this task, i made a simpe using Arduino. The TFT screen and joystick are connected to the Arduino board using the following pin configuration:
