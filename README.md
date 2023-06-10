@@ -14,6 +14,27 @@ In this task, i made a simpe using Arduino. The TFT screen and joystick are conn
 - CS: D10
 - VCC: 5V
 
+
+
+<table width="100%"> 
+<tr>
+<td width="30%">      
+&nbsp; 
+<br>
+<p align="center">
+  game
+</p>
+<img src="https://imagizer.imageshack.com/img924/1379/swQlWf.jpg">
+</td> 
+<td width="30%">
+<br>
+<p align="center">
+  game over
+</p>
+<img src="https://imagizer.imageshack.com/img923/2931/5XrG1L.jpg">  
+</td>
+</table>
+
 ## Joystick pins: 
 - GND pin connects to the circuit’s ground.
 - Vcc pin is used to supply the 5-volt power to the module.
@@ -29,8 +50,8 @@ To get started, we need to include the Adafruit_ILI9163C library in our Arduino 
 
 1. Open the Arduino IDE.
 2. Go to "Sketch" -> "Include Library" -> "Manage Libraries".
-3. In the Library Manager, search for "Adafruit_ILI9163C".
-4. Click on the "Adafruit ILI9163C" library and click the "Install" button.
+3. In the Library Manager, search for "Adafruit_GFX".
+4. Click on the "Adafruit_GFX" library and click the "Install" button.
 5. Wait for the installation to finish.
 
 ## Usage
