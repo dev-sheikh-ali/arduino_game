@@ -4,7 +4,7 @@
 ![](https://imagizer.imageshack.com/img924/667/50ulqN.jpg)
 
 ---
-In this task, i made a simpe using Arduino. The TFT screen and joystick are connected to the Arduino board using the following pin configuration:
+In this task, i made a simpe game using Arduino. The TFT screen and joystick are connected to the Arduino board using the following pin configuration:
 ## TFT screen:
 - LED: 3.3V
 - SCK: D13
