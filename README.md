@@ -83,7 +83,7 @@ To use the code, follow these steps:
    #include <Adafruit_GFX.h>
    #include <Adafruit_ST7735.h>
    ```
-4. the pin connections
+4. make the pin connections and adjust accordingly 
     
     ```
     const int SW = 2; // SW
