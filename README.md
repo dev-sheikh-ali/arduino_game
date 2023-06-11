@@ -12,9 +12,12 @@
 
 When connecting the display, ensure that has a voltage regulator (shown in the image below) before connecting it directly to the 5v logic level of the Arduino. This is because the display could be destroyed if the version of the display you have does not have the regulator.
 
-
-
 <img src="https://www.electronics-lab.com/wp-content/uploads/2018/03/regulator.jpg">  
+
+Remember to exercise caution and proceed at your own risk.If you have any doubts or concerns, consult the manufacturer's documentation or seek assistance from experienced individuals.
+
+**Proceed with caution and enjoy the project responsibly!**
+</br>
 
 In this task, i made a simpe game using Arduino. The TFT screen and joystick are connected to the Arduino board using the following pin configuration:
 
